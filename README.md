@@ -1,6 +1,6 @@
 Hi, I’m @Pranayabindu 👋  
 - 👀 I’m interested in **Business Analytics, Marketing, and Data-Driven Decision Making**  
-- 🌱 I’m currently learning **Predictive Analytics, Python, SQL, and Data Visualization**  
+- 🌱 I’m currently learning **Python, SQL, and Data Visualization**  
 - 💞️ I’m looking to collaborate on **projects related to business insights, predictive models, and marketing analytics**  
 - 📫 How to reach me: **pranayab@bu.edu**  
 - 😄 Pronouns: **She/Her**  
