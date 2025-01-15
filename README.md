@@ -4,7 +4,7 @@ Hi, I’m @Pranayabindu 👋
 - 💞️ I’m looking to collaborate on **projects related to business insights, predictive models, and marketing analytics**  
 - 📫 How to reach me: **pranayab@bu.edu**  
 - 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: **I’m a ballet dancer and love capturing moments through photography!**
+- ⚡ Fun fact: **I love capturing moments through photography!**
 
 <!---
 Pranayabindu/Pranayabindu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
